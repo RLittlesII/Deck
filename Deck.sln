@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deck", "src\Deck\Deck.csproj", "{0ED41475-AD31-41F7-8789-8FBFB8680884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deck.Tests", "test\Deck.Tests\Deck.Tests.csproj", "{1F68691B-774B-4102-BA32-6EEEEC1919EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ED41475-AD31-41F7-8789-8FBFB8680884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED41475-AD31-41F7-8789-8FBFB8680884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED41475-AD31-41F7-8789-8FBFB8680884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED41475-AD31-41F7-8789-8FBFB8680884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F68691B-774B-4102-BA32-6EEEEC1919EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F68691B-774B-4102-BA32-6EEEEC1919EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F68691B-774B-4102-BA32-6EEEEC1919EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F68691B-774B-4102-BA32-6EEEEC1919EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
